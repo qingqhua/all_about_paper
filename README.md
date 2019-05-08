@@ -10,4 +10,7 @@ interesting rendering paper collection
 
 ## predictive rendering
 [Bidirectional Rendering of Polarized Light Transport](http://giga.cps.unizar.es/~ajarabo/pubs/polarizationCEIG16/downloads/Jarabo_ceig16.pdf)  
-*extend BDPT and PM to support polarization*
+*Extend BDPT and PM to support polarization*
+
+[Polarised light in computer graphics](https://dl-acm-org.ezproxy.is.cuni.cz/citation.cfm?id=2407791)
+*Mathematical and physical foundation for polarisation*
