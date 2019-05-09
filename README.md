@@ -7,6 +7,7 @@ interesting rendering paper collection
 
 
 ## sampling
+[Neural Importance Sampling](http://drz.disneyresearch.com/~jnovak/publications/NIS/index.html)
 
 ## predictive rendering
 [Bidirectional Rendering of Polarized Light Transport](http://giga.cps.unizar.es/~ajarabo/pubs/polarizationCEIG16/downloads/Jarabo_ceig16.pdf)  
