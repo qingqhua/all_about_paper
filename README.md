@@ -16,5 +16,5 @@ interesting rendering paper collection
 [Polarised light in computer graphics](https://dl-acm-org.ezproxy.is.cuni.cz/citation.cfm?id=2407791)  
 *Mathematical and physical foundation for polarisation*
 
-[Physically-Based Simulation of Rainbows](http://graphics.ucsd.edu/~henrik/papers/physically_based_simulation_of_rainbows.pdf)
+[Physically-Based Simulation of Rainbows](http://graphics.ucsd.edu/~henrik/papers/physically_based_simulation_of_rainbows.pdf)  
 *all about rainbows*
