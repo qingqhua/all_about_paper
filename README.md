@@ -7,7 +7,7 @@ interesting rendering paper collection
 
 
 ## sampling
-[Neural Importance Sampling](http://drz.disneyresearch.com/~jnovak/publications/NIS/index.html)
+[Neural Importance Sampling](http://drz.disneyresearch.com/~jnovak/publications/NIS/index.html)  
 [Guided Direct Illumination](https://cgg.mff.cuni.cz/~jaroslav/papers/2019-path-guiding-course/slides/03-krivanek-bayesian-guided-direct-illumination-notes.pdf)
 
 ## predictive rendering
