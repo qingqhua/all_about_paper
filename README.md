@@ -19,3 +19,8 @@ interesting rendering paper collection
 
 [Physically-Based Simulation of Rainbows](http://graphics.ucsd.edu/~henrik/papers/physically_based_simulation_of_rainbows.pdf)  
 *all about rainbows*
+
+
+## Ray Tracing Technique
+[Time Interval Ray Tracing for Motion Blur](http://www.cemyuksel.com/research/papers/time_interval_ray_tracing_for_motion_blur-high.pdf)
+*Noise free motion blur*
